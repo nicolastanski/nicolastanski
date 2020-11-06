@@ -1,6 +1,6 @@
 # Hi! Welcome to my GitHub Page! 👨🏻‍💻
 
-## Focused 🎯
+## 🎯 Focused
 
 - Domain Driven Design (DDD)
 - Design Patterns
@@ -12,6 +12,7 @@
     <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="30" height="30"/>
     <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="React" width="30" height="30"/>
     <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="Javascript" width="30" height="30"/>
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original.svg" alt="MySQL" width="30" height="30"/>
 </p>
 
 
