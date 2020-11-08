@@ -14,6 +14,7 @@
     <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="Javascript" width="30" height="30"/>
     <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="Typescript" width="30" height="30"/>
     <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original.svg" alt="MySQL" width="30" height="30"/>
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original.svg" alt="Postgresql" width="30" height="30"/>
 </p>
 
 
