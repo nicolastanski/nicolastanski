@@ -5,6 +5,7 @@
 - Domain Driven Design (DDD)
 - Design Patterns
 - Clean Code
+- Test Driven Development (TDD)
 
 <p style="margin-top: 20px;">
     <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="PHP"  width="30" height="30" />
