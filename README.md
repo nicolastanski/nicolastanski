@@ -1,5 +1,9 @@
 # Hi! Welcome to my GitHub Page! 👨🏻‍💻
 
+## 👨🏻‍💻 About Me
+- Developer Full Stack
+- Studying Systems Analysis and Development at [FIAP](https://www.fiap.com.br/)
+
 ## 🎯 Focused
 
 - Domain Driven Design (DDD)
