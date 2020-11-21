@@ -11,6 +11,9 @@
 - Clean Code
 - Test Driven Development (TDD)
 
+<img align='center' src="https://github-readme-stats.vercel.app/api?username=nicolastanski&show_icons=true">
+
+## Knowledge
 <p style="margin-top: 20px;">
     <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="PHP"  width="30" height="30" />
     <img src="https://devicons.github.io/devicon/devicon.git/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="30" height="30"/>
