@@ -3,8 +3,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nicolastanski&color=yellow" alt="Profile views" /> </p>
 
 ## 👨🏻‍💻 About Me
-- Developer Full Stack
-- Studying Systems Analysis and Development at [FIAP](https://www.fiap.com.br/)
+- Developer Full Cycle
+- Graduated in Systems Analysis and Development at [FIAP](https://www.fiap.com.br/)
 
 
 ## 🎯 Focused
